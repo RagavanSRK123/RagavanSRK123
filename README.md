@@ -1,54 +1,49 @@
-<h1 align="center">Hi 👋, I'm Ragavan SRK</h1>
+<h1 align="center">Hi , I'm Ragavan SRK</h1>
 <h3 align="center">Full Stack Developer | React | Node.js | MongoDB</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RagavanSRK&label=Profile%20views&color=0e75b6&style=flat" alt="RagavanSRK" /> </p>
 
-## 🚀 Languages & Tools I Work With:
+- 🔭 I’m currently working on **Real-time Chat Applications**
+- 🌱 I’m currently learning **React Native, AWS, Socket.io**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 💬 Ask me about **React, Node.js, MongoDB**
+- 📫 How to reach me: **ragavanlamynaals04@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="margin-right: 15px;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
----
 
-## 📫 How to reach me:
-<p>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/socketdotio.svg" alt="Socket.io" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="Axios" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Axios" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
----
 
-## 🛠️ Projects
-- [🔗 Project One](https://github.com/your-username/project-one)
-- [🔗 Project Two](https://github.com/your-username/project-two)
-- [🔗 Project Three](https://github.com/your-username/project-three)
-
----
-
-## 🔥 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="PKK's GitHub stats"/>
+<h3>📊 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RagavanSRK&show_icons=true&theme=radical" alt="Ragavan's GitHub stats"/>
 </p>
 
----
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RagavanSRK&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagavanSRK&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
