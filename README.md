@@ -32,22 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/socketdotio.svg" alt="Socket.io" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="Axios" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Axios" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS" width="40" height="40" style="margin-right: 10px;"/>
-  
-
-  
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS" width="40" height="40" style="margin-right: 10px;"/>  
 </p>
 
-
-<h3>📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RagavanSRK&show_icons=true&theme=radical" alt="Ragavan's GitHub stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RagavanSRK&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagavanSRK&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
